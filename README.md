@@ -38,6 +38,11 @@ To run test:
  npm run test
  ```
 
+### Results with Jest
+
+![image](https://github.com/LeandroJavierLaino/testing-react-nextjs-jest-cypress/assets/9620660/44fc0d52-a7e4-40f6-9fb0-da0004f79afa)
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
